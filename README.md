@@ -15,7 +15,7 @@ Este script permite convertir datos de un archivo JSON a CSV
 
 - Python 3.6 o superior
 
-## Estructura de Carpetas
+## Estructura de Carpetas  (en caso de no tener data y/o tmp se crean automaticamente)
 
 ```
 proyecto/
