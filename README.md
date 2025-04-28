@@ -11,6 +11,10 @@ Este script permite convertir datos de un archivo JSON a CSV
 - Exporta múltiples archivos CSV, con cantidad de registros por archivo personalizable.
 - Mantiene codificación UTF-8.
 
+### Requisitos
+
+- Python 3.6 o superior
+
 ## Estructura de Carpetas
 
 ```
